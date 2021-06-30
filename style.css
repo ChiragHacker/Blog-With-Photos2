@@ -1,0 +1,15 @@
+.imgcls {
+    width: 500px;
+    margin-left: 60px;
+    margin-right: 80px;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+
